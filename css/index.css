@@ -1,0 +1,55 @@
+.version.index /* version checker */
+{
+	color: #00001C;
+	background-color: #789203;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 480px;
+	border-width: 0px;
+	border-color: #000000;
+	padding-top: 185px;
+	padding-bottom: 236px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #000000 url("../images/polygonal_textures_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u102-4
+{
+	z-index: 2;
+	min-height: 328px;
+	text-shadow: 2px 3px 13px #000000;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	background-color: transparent;
+	line-height: 240px;
+	font-size: 200px;
+	text-align: center;
+	color: #F7931E;
+	position: relative;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
